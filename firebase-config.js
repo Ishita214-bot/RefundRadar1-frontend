@@ -1,11 +1,11 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyAYArk0OdErgsUb5kmHbN_9lrD07i8vhmA",
-    authDomain: "refundradar-de2df.firebaseapp.com",
-    projectId: "refundradar-de2df",
-    storageBucket: "refundradar-de2df.firebasestorage.app",
-    messagingSenderId: "552764302278",
-    appId: "1:552764302278:web:a8bf3f6c9c4554bb0488c7",
-    measurementId: "G-1Y60BKQC5P"
+    apiKey: "AIzaSyA9-wpSAodBNEdapqemMB4_jzjtghUJpG4",
+  authDomain: "refundradar-c2d0a.firebaseapp.com",
+  projectId: "refundradar-c2d0a",
+  storageBucket: "refundradar-c2d0a.firebasestorage.app",
+  messagingSenderId: "186595300827",
+  appId: "1:186595300827:web:cddc280aedf0d3866843fe",
+  measurementId: "G-TDDTDFPH86"
   };
   
   firebase.initializeApp(firebaseConfig);
